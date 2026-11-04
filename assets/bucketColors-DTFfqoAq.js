@@ -1,0 +1,1 @@
+var e={Standard:`success`,"SMA-0":`warning`,"SMA-1":`warning`,"SMA-2":`danger`,NPA:`danger`,Settlement:`default`,"Write-Off":`secondary`,"BKT-1":`success`,"BKT-2":`warning`,"BKT-3":`warning`,"BKT-4":`danger`,"BKT-5":`danger`,"BKT-6+":`danger`},t=t=>e[t]??`secondary`;export{t};

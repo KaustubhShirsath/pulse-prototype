@@ -1,0 +1,1 @@
+import{kt as e}from"./ui-CiphDXHJ.js";import{s as t}from"./index-BOSg6qOG.js";var n=e();function r({fixed:e,className:r,fluid:i,...a}){return(0,n.jsx)(`main`,{"data-layout":e?`fixed`:`auto`,className:t(`px-0 py-0`,`@7xl/content:w-full`,r),...a})}export{r as t};
